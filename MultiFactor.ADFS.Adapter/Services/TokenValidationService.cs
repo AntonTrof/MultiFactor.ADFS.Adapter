@@ -1,7 +1,3 @@
-ChatGPT 4 | Claude | Jadve AI, [27.11.2024 17:56]
-Да, конечно. Вот улучшенная версия вашего исходного кода с внедренными механизмами защиты:
-
-```csharp
 using System;
 using System.Collections.Generic;
 using System.Text;
